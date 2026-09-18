@@ -1,0 +1,16 @@
+{
+  "instrument": "XAUUSD",
+  "timeframe": "1m",
+  "lookback": 20,
+  "stakes": [
+    1,
+    2,
+    4.5,
+    10,
+    21.5,
+    45,
+    100
+  ],
+  "max_consecutive_losses": 7,
+  "mode": "paper"
+}
